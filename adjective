@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -R ~/bin/adjectives.txt  | head -1

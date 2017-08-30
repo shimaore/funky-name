@@ -1,0 +1,9 @@
+Installation
+------------
+
+This is meant to be installed in `~/bin`, modify the scripts if needed.
+
+Usage
+-----
+
+`funky-name` returns an adjective-noun combination.

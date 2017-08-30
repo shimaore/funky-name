@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -R ~/bin/nouns.txt | head -1
